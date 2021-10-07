@@ -1,0 +1,15 @@
+{
+  "name": "bdd-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './spec/**/*.spec.js'"
+  },
+  "author": "Ricky Broers",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
